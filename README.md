@@ -1,4 +1,4 @@
-# risky.site 
+# risky.cloud
 a Blacklist of Threat Intelligence Scanner IPs
 
 This project is part of this talk: http://www.cactuscon.com/neil-smith/ 
